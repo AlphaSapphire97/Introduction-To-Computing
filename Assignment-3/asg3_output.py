@@ -74,16 +74,16 @@ ABCDEFGHIJK
 
 ====================================== RESTART: C:\Users\adity\Desktop\pi.py =====================================
    QUESTION-6
-Enter SID:21105050
+Enter SID(should be unique):21105050
 Enter name:Aditya
 Enter Y if you want to enter more data else enter N:Y
-Enter SID:21105085
+Enter SID(should be unique):21105085
 Enter name:Ajay
 Enter Y if you want to enter more data else enter N:Y
-Enter SID:21105040
+Enter SID(should be unique):21105040
 Enter name:Amar
 Enter Y if you want to enter more data else enter N:Y
-Enter SID:21105021
+Enter SID(should be unique):21105021
 Enter name:Bhavik
 Enter Y if you want to enter more data else enter N:N
 Part-a
