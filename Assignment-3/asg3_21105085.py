@@ -149,7 +149,7 @@ print("   QUESTION-6")
 Record=dict()              #MAKING THE DICTIONARY NAMED Record TO STORE SIDs AND NAMEs
 choice="Y"
 while choice=="Y":         #LOOP WHICH TAKES INPUT UNTIL USER IS SATISFIED
- SID=int(input("Enter SID:"))
+ SID=int(input("Enter SID(should be unique):"))
  Name=input("Enter name:")
  Record[SID]=Name
  choice=input("Enter Y if you want to enter more data else neter N:")
